@@ -1,7 +1,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=KuzVlad&theme=tokyonight&show_icons=true&count_private=true)
 
 ## About
-More than 3 years of programming experience in C/C++, currently working at RIFTEK LLC on the SDK library for RF62X scanners.
+More than 5 years of programming experience in C/C++, currently working at RIFTEK LLC on the SDK library for RF62X scanners.
 
 ![Profile views](https://gpvc.arturio.dev/KuzVlad)
 
